@@ -8,7 +8,7 @@ A React-based interactive web application where users draw a square by clicking 
 - Auto-connect lines between dots
 - Complete square after 4 clicks
 - Reset button to start over
-- Visual feedback on square completion
+
 
 ## 🔧 Technologies Used
 - React (Functional Components + Hooks)
